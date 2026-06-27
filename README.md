@@ -17,7 +17,7 @@
 ```python
 profile = {
     "name":     "GP Singh",
-    "location": "Vancouver, BC 🇨🇦",
+    "location": "BC 🇨🇦",
     "role":     "Cybersecurity Analyst I → targeting Senior Security Engineer",
     "focus":    ["SAST/DAST tooling", "AI-assisted detection", "Offensive security"],
     "building": ["P1: SAST+DAST Triage", "P3: AI Log Anomaly Detector"],
