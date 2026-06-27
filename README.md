@@ -1,83 +1,112 @@
-# 🌐 Visit My Cybersecurity Portfolio  
-Check it out live: [pyhacksecgp.github.io](https://pyhacksecgp.github.io)
+<div align="center">
+
+<!-- Typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+GP+Singh+%F0%9F%91%8B;Cybersecurity+Analyst+%7C+Vancouver+BC;Building+security+tools+with+AI;Offensive+%2B+Defensive+%7C+Always+shipping)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-pyhacksecgp.github.io-F97316?style=for-the-badge&logo=github&logoColor=white)](https://pyhacksecgp.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gpsingh-sec)
+
+</div>
 
 ---
 
-# 🔐 CyberSecurity Future
+## 👤 About Me
 
-Welcome to **CyberSecurity Future** – a living repository of my journey, projects, tools, and insights in the world of cybersecurity. This repo serves as a central hub for my experiments, certifications, walkthroughs, and curated resources as I grow in the field of infosec.
-
----
-
-## 📚 Table of Contents
-
-- [🔎 Overview](#-overview)
-- [🛠️ Projects](#️-projects)
-- [📜 Certifications & Learning](#-certifications--learning)
-- [🧰 Tools & Technologies](#-tools--technologies)
-- [🚀 Getting Started](#-getting-started)
-- [🤝 Contributing](#-contributing)
-- [📅 Future Roadmap](#-future-roadmap)
-- [📬 Contact](#-contact)
-- [📝 License](#-license)
+```python
+profile = {
+    "name":     "GP Singh",
+    "location": "Vancouver, BC 🇨🇦",
+    "role":     "Cybersecurity Analyst I → targeting Senior Security Engineer",
+    "focus":    ["SAST/DAST tooling", "AI-assisted detection", "Offensive security"],
+    "building": ["P1: SAST+DAST Triage", "P3: AI Log Anomaly Detector"],
+    "learning": ["HTB / THM labs", "Python security tooling", "Exploit dev"],
+    "goal":     "Elite security engineer by 2029 🎯",
+}
+```
 
 ---
 
-## 🔎 Overview
+## 🚀 Featured Projects
 
-Cybersecurity isn’t just my profession — it’s my mission.
-
-Here you’ll find:
-- **⚙️ Real-world Projects**: Penetration testing, malware analysis, reverse engineering, and more.
-- **📘 Learning Pathways**: Cert progress, lab documentation, write-ups.
-- **🧠 Knowledge Sharing**: Research, blogs, and articles written to help others grow.
-
-I aim to make security knowledge accessible while sharpening my skills every step of the way.
-
----
-
-## 🛠️ Projects
-
-### 🔍 Penetration Testing Tools
-- **Nmap Automation**: Scripted scanning + vulnerability reporting.
-- **Web Vulnerability Scanner**: Python + OWASP ZAP API integration.
-
-### 🦠 Malware Analysis
-- **Cuckoo Sandbox Setup**: Local sandbox lab for safe malware inspection.
-- **Reverse Engineering**: Static and dynamic analysis write-ups.
-
-### 🛡️ Security Best Practices
-- **Hardening Guides**: OS and network lockdown procedures.
-- **Incident Response**: Checklists and response docs for digital forensics.
-
-👉 Dive into each project directory for more context and usage instructions.
+| Project | Description | Stack |
+|---|---|---|
+| [**P1 — SAST+DAST Triage**](https://github.com/PyHackSecGP/p1-sast-dast-triage) | Deduplicates Semgrep/Bandit/ZAP findings, CWE risk scoring, LLM FP filter, SARIF export | Python · Ollama · SARIF |
+| [**P3 — AI Log Anomaly Detector**](https://github.com/PyHackSecGP/p3-log-anomaly-detector) | Auth log analysis with MITRE ATT&CK mapping, AbuseIPDB enrichment, email alerts | Python · Ollama · AbuseIPDB |
+| [**CTF Lab**](https://github.com/PyHackSecGP/ctf-lab) | HTB / THM writeups and custom exploit scripts | Python · Bash |
+| [**Memory Safety Lab**](https://github.com/PyHackSecGP/memory-safety-lab) | Buffer overflow, heap exploitation, use-after-free exercises | C · GDB · pwndbg |
+| [**Offsec Saturdays**](https://github.com/PyHackSecGP/offsec-saturdays) | Weekly offensive security notes — tools, techniques, lab docs | Markdown |
 
 ---
 
-## 📜 Certifications & Learning
+## 🛠️ Tech Stack
 
-**Completed:**
-- ✅ OSCP – Offensive Security Certified Professional  
-- ✅ CEH – Certified Ethical Hacker  
+<div align="center">
 
-**In Progress / Planned:**
-- ⏳ CISSP – Certified Information Systems Security Professional  
-- ⏳ CompTIA Security+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Courses Taken:**
-- 🔐 Udemy – The Complete Cyber Security Course  
-- 🔐 Coursera – Cybersecurity Specialization by [University Name]
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=flat-square&logo=metasploit&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-1B2733?style=flat-square&logo=semgrep&logoColor=white)
+
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=flat-square&logo=ollama&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+
+</div>
 
 ---
 
-## 🧰 Tools & Technologies
+## 📊 GitHub Stats
 
-- **Network Scanning**: Nmap, Masscan  
-- **Web App Testing**: Burp Suite, OWASP ZAP  
-- **Forensics**: Autopsy, Volatility  
-- **Automation**: Python, Bash  
-- **Reverse Engineering**: Ghidra, x64dbg  
+<div align="center">
 
-Constantly updating as I explore new tools.
+<img src="https://github-readme-stats.vercel.app/api?username=PyHackSecGP&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyHackSecGP&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9" height="165"/>
 
+</div>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PyHackSecGP&theme=dark&hide_border=true&background=0d1117&fire=F97316&ring=F97316&currStreakLabel=F97316)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Certification Roadmap
+
+| Status | Cert | Timeline |
+|---|---|---|
+| ⏳ In Progress | Building portfolio + labs | Now |
+| 🎯 Next | CompTIA Security+ | Early 2027 |
+| 🎯 Planned | CEH or eJPT | Mid 2027 |
+| 🎯 Planned | OSCP | 2028 |
+
+---
+
+## 🔭 What I'm Working On
+
+- **P1** — Adding more parsers (Trivy, Checkov) to the SAST/DAST triage pipeline
+- **P3** — Windows Event Log support for the anomaly detector
+- **HTB / THM** — Weekly boxes, writeup on every root
+- **Homelab** — Proxmox cluster, OPNsense firewall, Tailscale mesh, local LLM stack
+
+---
+
+<div align="center">
+
+*"Ship something every day. Consistency beats perfection."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=PyHackSecGP&color=F97316&style=flat-square&label=Profile+Views)
+
+</div>
