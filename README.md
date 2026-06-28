@@ -20,7 +20,7 @@ profile = {
     "location": "BC 🇨🇦",
     "role":     "Cybersecurity Analyst I → targeting Senior Security Engineer",
     "focus":    ["SAST/DAST tooling", "AI-assisted detection", "Offensive security"],
-    "building": ["P1: SAST+DAST Triage", "P3: AI Log Anomaly Detector"],
+    "shipped":  ["P1: SAST+DAST Triage", "P2: Threat Model Generator", "P3: AI Log Anomaly Detector", "P4: Mini-CRS"],
     "learning": ["HTB / THM labs", "Python security tooling", "Exploit dev"],
     "goal":     "Elite security engineer by 2029 🎯",
 }
@@ -32,11 +32,12 @@ profile = {
 
 | Project | Description | Stack |
 |---|---|---|
+| [**P4 — Mini-CRS**](https://github.com/PyHackSecGP/p4-mini-crs) | Autonomous vuln discovery: AFL++ fuzzing → ASan triage → LLM root cause → patch → validate. 100% fix rate. Inspired by DARPA AIxCC | Python · AFL++ · ASan · Claude |
 | [**P1 — SAST+DAST Triage**](https://github.com/PyHackSecGP/p1-sast-dast-triage) | Deduplicates Semgrep/Bandit/ZAP findings, CWE risk scoring, LLM FP filter, SARIF export | Python · Ollama · SARIF |
+| [**P2 — Threat Model Generator**](https://github.com/PyHackSecGP/p2-threat-model-generator) | STRIDE analysis, MITRE ATT&CK + OWASP + NIST mapping, GDPR/PCI-DSS compliance flags, executive HTML report | Python · Ollama · Chart.js |
 | [**P3 — AI Log Anomaly Detector**](https://github.com/PyHackSecGP/p3-log-anomaly-detector) | Auth log analysis with MITRE ATT&CK mapping, AbuseIPDB enrichment, email alerts | Python · Ollama · AbuseIPDB |
 | [**CTF Lab**](https://github.com/PyHackSecGP/ctf-lab) | HTB / THM writeups and custom exploit scripts | Python · Bash |
 | [**Memory Safety Lab**](https://github.com/PyHackSecGP/memory-safety-lab) | Buffer overflow, heap exploitation, use-after-free exercises | C · GDB · pwndbg |
-| [**Offsec Saturdays**](https://github.com/PyHackSecGP/offsec-saturdays) | Weekly offensive security notes — tools, techniques, lab docs | Markdown |
 
 ---
 
@@ -59,6 +60,8 @@ profile = {
 ![Semgrep](https://img.shields.io/badge/Semgrep-1B2733?style=flat-square&logo=semgrep&logoColor=white)
 
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=flat-square&logo=ollama&logoColor=white)
+![AFL++](https://img.shields.io/badge/AFL++-Fuzzing-CC0000?style=flat-square&logoColor=white)
+![AddressSanitizer](https://img.shields.io/badge/ASan-Memory_Safety-8B0000?style=flat-square&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
@@ -96,6 +99,7 @@ profile = {
 
 ## 🔭 What I'm Working On
 
+- **P4 shipped** — Mini-CRS: autonomous vuln discovery + patch generation, 100% fix rate on demo target
 - **P1** — Adding more parsers (Trivy, Checkov) to the SAST/DAST triage pipeline
 - **P3** — Windows Event Log support for the anomaly detector
 - **HTB / THM** — Weekly boxes, writeup on every root
