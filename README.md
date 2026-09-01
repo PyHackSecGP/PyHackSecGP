@@ -1,11 +1,12 @@
 <div align="center">
 
 <!-- Typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+GP+Singh+%F0%9F%91%8B;Cybersecurity+Analyst+%7C+Vancouver+BC;Building+agentic+security+tools;Offensive+%2B+Defensive+%7C+Always+shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=700&lines=Hey%2C%20I%27m%20GP%20Singh%20%F0%9F%91%8B%F0%9F%8D%81;Cybersecurity%20Engineer%20%F0%9F%9B%A1%EF%B8%8F%20Vancouver%20BC;Long-term%20target%3A%20CISO%20%F0%9F%91%94%F0%9F%8E%AF;Breaking%20things%20ethically%20%F0%9F%92%A5%20Fixing%20faster%20%F0%9F%94%A7;Agentic%20security%20tools%20%F0%9F%A4%96%20go%20brrr;HTB%20weekends%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20AFL%2B%2B%20at%203am%20%F0%9F%A7%A8%E2%98%95;Always%20shipping%20%F0%9F%9A%80%20Never%20sleeping%20%F0%9F%98%B4)](https://git.io/typing-svg)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pyhacksecgp.github.io-F97316?style=for-the-badge&logo=github&logoColor=white)](https://pyhacksecgp.github.io)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Writeups-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/pyhacksecgp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gpsingh-sec)
 
 </div>
@@ -40,10 +41,10 @@ profile = {
 
 | Project | Description | Stack |
 |---|---|---|
-| [**agent-core**](https://github.com/PyHackSecGP/agent-core) | Shared agentic tool-calling loop powering P1–P5. `@tool` decorator, `ExecutionPolicy`, Claude + Ollama providers | Python · Claude · Ollama |
-| [**P5 — ATLAS**](https://github.com/PyHackSecGP/p5-atlas) | Autonomous HTB/CTF pipeline — 6 agents, parallel NSE + hydra, tiered Claude models with prompt caching, SSH-driven PrivEsc | Python · Claude · Nmap |
-| [**P4 — Mini-CRS**](https://github.com/PyHackSecGP/p4-mini-crs) | Autonomous vuln discovery: AFL++ fuzzing → ASan triage → LLM root cause → patch → validate. 100% fix rate. Inspired by DARPA AIxCC | Python · AFL++ · ASan · Claude |
-| [**P1 — SAST+DAST Triage**](https://github.com/PyHackSecGP/p1-sast-dast-triage) | Agentic triage over Semgrep/Bandit/ZAP findings, CWE risk scoring, LLM FP filter, SARIF export | Python · agent-core · Claude |
+| [**agent-core**](https://github.com/PyHackSecGP/agent-core) | Shared agentic tool-calling loop powering P1–P5. `@tool` decorator, `ExecutionPolicy`, multi-provider LLM backends | Python · LLM APIs · Ollama |
+| [**P5 — ATLAS**](https://github.com/PyHackSecGP/p5-atlas) | Autonomous HTB/CTF pipeline — 6 agents, parallel NSE + hydra, tiered LLM models with prompt caching, SSH-driven PrivEsc | Python · Agentic AI · Nmap |
+| [**P4 — Mini-CRS**](https://github.com/PyHackSecGP/p4-mini-crs) | Autonomous vuln discovery: AFL++ fuzzing → ASan triage → LLM root cause → patch → validate. 100% fix rate. Inspired by DARPA AIxCC | Python · AFL++ · ASan · LLM |
+| [**P1 — SAST+DAST Triage**](https://github.com/PyHackSecGP/p1-sast-dast-triage) | Agentic triage over Semgrep/Bandit/ZAP findings, CWE risk scoring, LLM FP filter, SARIF export | Python · agent-core · LLM |
 | [**P2 — Threat Model Generator**](https://github.com/PyHackSecGP/p2-threat-model-generator) | STRIDE analysis, MITRE ATT&CK + OWASP + NIST mapping, GDPR/PCI-DSS flags, executive HTML report | Python · Ollama · Chart.js |
 | [**P3 — AI Log Anomaly Detector**](https://github.com/PyHackSecGP/p3-log-anomaly-detector) | Auth log analysis with MITRE ATT&CK mapping, AbuseIPDB enrichment, email alerts | Python · Ollama · AbuseIPDB |
 | [**CTF Lab**](https://github.com/PyHackSecGP/ctf-lab) | HTB / THM writeups and custom exploit scripts | Python · Bash |
@@ -69,7 +70,8 @@ profile = {
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
 ![Semgrep](https://img.shields.io/badge/Semgrep-1B2733?style=flat-square&logo=semgrep&logoColor=white)
 
-![Claude](https://img.shields.io/badge/Claude_API-Agentic_LLM-D97757?style=flat-square&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-LLM_Tool_Use-7C3AED?style=flat-square&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-Multi_Provider-00A67E?style=flat-square&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=flat-square&logo=ollama&logoColor=white)
 ![AFL++](https://img.shields.io/badge/AFL++-Fuzzing-CC0000?style=flat-square&logoColor=white)
 ![AddressSanitizer](https://img.shields.io/badge/ASan-Memory_Safety-8B0000?style=flat-square&logoColor=white)
