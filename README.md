@@ -80,23 +80,6 @@ profile = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PyHackSecGP&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyHackSecGP&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PyHackSecGP&theme=dark&hide_border=true&background=0d1117&fire=F97316&ring=F97316&currStreakLabel=F97316)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 Certification Roadmap
 
 | Status | Cert | Timeline |
