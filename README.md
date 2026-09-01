@@ -18,7 +18,7 @@
 profile = {
     "name":     "GP Singh",
     "location": "Vancouver, BC 🇨🇦",
-    "role":     "Cybersecurity Analyst I → targeting Senior Security Engineer",
+    "role":     "Cybersecurity Engineer → long-term: CISO",
     "focus":    ["Agentic AI security tooling", "SAST/DAST triage", "Autonomous pentest pipelines"],
     "shipped":  [
         "P1: SAST+DAST Triage",
