@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-pyhacksecgp.github.io-F97316?style=for-the-badge&logo=github&logoColor=white)](https://pyhacksecgp.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-greenbladesec.com-16A34A?style=for-the-badge&logo=safari&logoColor=white)](https://www.greenbladesec.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Writeups-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/pyhacksecgp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gpsingh-sec)
 
