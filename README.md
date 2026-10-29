@@ -138,8 +138,7 @@ graph LR
 
 ## ✍️ Latest Writeups
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [I gave my STRIDE threat modelling tool an agentic interview mode](https://dev.to/greenbladesec/i-gave-my-stride-threat-modelling-tool-an-agentic-interview-mode-1dao) &nbsp; <sub>Sep 2, 2026</sub>- [I Built an AI Security Agent That Found Vulnerabilities in Its Own Code &lpar;And Why That&#39;s the Point&rpar;](https://dev.to/greenbladesec/i-built-an-ai-security-agent-that-found-vulnerabilities-in-its-own-code-and-why-thats-the-point-519h) &nbsp; <sub>Sep 1, 2026</sub>- [Building an AI-Powered Auth Log Anomaly Detector with MITRE ATT&amp;CK](https://dev.to/greenbladesec/building-an-ai-powered-auth-log-anomaly-detector-with-mitre-attck-4ai2) &nbsp; <sub>Aug 31, 2026</sub>- [I Built a SAST/DAST Triage Pipeline Because Scanner Noise Was Killing My Signal](https://dev.to/greenbladesec/i-built-a-sastdast-triage-pipeline-because-scanner-noise-was-killing-my-signal-4126) &nbsp; <sub>Aug 31, 2026</sub>- [Homelab Day: Nextcloud + Traefik + HSTS Headers That Actually Work](https://dev.to/greenbladesec/homelab-day-nextcloud-traefik-hsts-headers-that-actually-work-4cb3) &nbsp; <sub>Aug 11, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 > ⚡ Auto-updated from [dev.to/greenbladesec](https://dev.to/greenbladesec) by a GitHub Action.
 
