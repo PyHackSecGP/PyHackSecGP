@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=720&lines=Hey%2C%20I%27m%20GP%20Singh%20%F0%9F%91%8B%F0%9F%8D%81;AI%20Red-Team%20Engineer%20%F0%9F%A4%96%F0%9F%9B%A1%EF%B8%8F%20Vancouver%20BC;Building%20the%20agentic%20security%20toolkit%20I%20want%20at%20work;Autonomous%20pentest%20pipelines%20%E2%9E%95%20AIxCC-inspired%20CRS;MCP%20servers%20that%20let%20Claude%20drive%20my%20homelab;HTB%20weekends%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20AFL%2B%2B%20at%203am%20%F0%9F%A7%A8;Target%3A%20Senior%20AI%20Red%20Team%20%40%)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=720&lines=Hey%2C%20I%27m%20GP%20Singh%20%F0%9F%91%8B%F0%9F%8D%81;AI%20Red-Team%20Engineer%20%F0%9F%A4%96%F0%9F%9B%A1%EF%B8%8F%20Vancouver%20BC;Building%20the%20agentic%20security%20toolkit%20I%20want%20at%20work;Autonomous%20pentest%20pipelines%20%E2%9E%95%20AIxCC-inspired%20CRS;MCP%20servers%20that%20let%20Claude%20drive%20my%20homelab;HTB%20weekends%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20AFL%2B%2B%20at%203am%20%F0%9F%A7%A8;Red-teaming%20my%20own%20agents%20before%20anyone%20else%20does%20%F0%9F%A7%AA)](https://git.io/typing-svg)
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-greenbladesec.com-16A34A?style=for-the-badge&logo=safari&logoColor=white)](https://www.greenbladesec.com)
