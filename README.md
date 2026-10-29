@@ -21,7 +21,7 @@ profile = {
     "name":         "GP Singh",
     "location":     "Vancouver, BC 🇨🇦",
     "current_role": "Cybersecurity Analyst",
-    "target_role":  "Senior AI Red Team Engineer — $200k CAD remote by Jul 2027",
+    "target_role":  "Senior AI Red Team Engineer",
     "thesis":       "LLMs collapse the cost of agentic security tooling — build the stack now",
     "focus": [
         "Agentic security pipelines (ReAct + tool use)",
