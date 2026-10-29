@@ -18,7 +18,7 @@ jobs:
       - name: Pull dev.to posts into README
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/pyhacksecgp"
+          feed_list: "https://dev.to/feed/greenbladesec"
           max_post_count: 5
           template: "- [$title]($url) &nbsp; <sub>$date</sub>"
           date_format: "mmm d, yyyy"

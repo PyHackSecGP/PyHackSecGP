@@ -6,7 +6,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-greenbladesec.com-16A34A?style=for-the-badge&logo=safari&logoColor=white)](https://www.greenbladesec.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Writeups-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/pyhacksecgp)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Writeups-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/greenbladesec)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gpsingh-sec)
 [![Visitors](https://komarev.com/ghpvc/?username=PyHackSecGP&color=F97316&style=for-the-badge&label=Profile+Views)](https://github.com/PyHackSecGP)
 
@@ -141,7 +141,7 @@ graph LR
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-> ⚡ Auto-updated from [dev.to/pyhacksecgp](https://dev.to/pyhacksecgp) by a GitHub Action.
+> ⚡ Auto-updated from [dev.to/greenbladesec](https://dev.to/greenbladesec) by a GitHub Action.
 
 ---
 
@@ -253,7 +253,7 @@ ISP router handles LAN perimeter. OPNsense decommissioned 2026-10-28 to simplify
 <div align="center">
 
 [![Website](https://img.shields.io/badge/greenbladesec.com-16A34A?style=for-the-badge&logo=safari&logoColor=white)](https://www.greenbladesec.com)
-[![Dev.to](https://img.shields.io/badge/dev.to%2Fpyhacksecgp-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/pyhacksecgp)
+[![Dev.to](https://img.shields.io/badge/dev.to%2Fgreenbladesec-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/greenbladesec)
 [![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fgpsingh--sec-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gpsingh-sec)
 
 </div>
